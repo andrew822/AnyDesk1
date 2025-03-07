@@ -1,0 +1,76 @@
+<html>
+<head>
+<p>Andrew Llamas Avila
+<p>Grado y Grupo: 4°D
+<p>Especialidad: Soporte y Mantenimiento de Computo 
+<p>Turno:Matutino 
+<p>Fecha:03/03/2025
+<title>Soporte a Distancia</title>
+</head>
+<body><font color=»#8B0000″ size=»3″ face=»Comic Sans MS, Arial, MS Sans Serif»<h1><center>Soporte a Distancia</center></h1></font><font size=»3″ face=»Comic Sans MS, Arial, MS Sans Serif»>
+
+<font color=»#0000FF″ size=»3″ face=»Comic Sans MS, Arial, MS Sans Serif»<h2>AnyDesk</h2></font>
+<br>
+<img src=AnyDesk.jpg alt= width=20% height=20% />
+<br>
+</font><font size=»3″ face=»Comic Sans MS, Arial, MS Sans Serif»>
+<br>
+<p>AnyDesk es un software de acceso remoto que permite a los usuarios conectarse a otros dispositivos a través de Internet, ya sea para soporte técnico, colaboración remota o administración de sistemas. Está diseñado para ofrecer una experiencia fluida y rápida, incluso con anchos de banda bajos, lo que lo hace adecuado para tareas que requieren alta performance.
+<br>
+<p>Características principales de AnyDesk:
+<br>
+<p>Conexiones de alta calidad:
+<br>
+<p>AnyDesk utiliza un codec de video propio llamado "DeskRT", que asegura que las conexiones sean rápidas y con una calidad gráfica superior, incluso en conexiones lentas.
+<br>
+<p>Bajo consumo de ancho de banda:
+<br>
+<p>El software está optimizado para consumir poco ancho de banda, lo que lo hace ideal para conexiones de internet más lentas o inestables.
+<br>
+<p>Seguridad:
+<br>
+<p>Utiliza una encriptación TLS 1.2 (el mismo nivel de seguridad que usan los bancos) para garantizar que las conexiones sean seguras.
+<br>
+<p>También tiene autenticación de dos factores para agregar una capa extra de protección.
+<br>
+<p>Compatibilidad multiplataforma:
+<br>
+<p>AnyDesk es compatible con varias plataformas, incluyendo Windows, macOS, Linux, Android e iOS, lo que permite conexiones entre distintos sistemas operativos.
+<br>
+<p>Bajo latencia:
+<br>
+<p>Gracias a su red de servidores y su optimización, AnyDesk ofrece una experiencia de control remoto con baja latencia, lo cual es muy importante para aplicaciones como la edición de gráficos, programación o incluso juegos.
+<br>
+<p>Acceso no supervisado:
+<br>
+<p>Permite a los usuarios conectarse a un dispositivo sin necesidad de que haya alguien presente en la otra máquina, siempre y cuando se haya configurado el acceso previo.
+<br>
+<p>Transferencia de archivos:
+<br>
+<p>Puedes transferir archivos entre los dispositivos conectados, lo cual es muy útil cuando trabajas de forma remota.
+<br>
+<p>Modo de colaboración:
+<br>
+<p>AnyDesk permite sesiones de trabajo en grupo, donde múltiples usuarios pueden trabajar de manera conjunta en una sesión remota.
+Usos comunes:
+<br>
+<p>Soporte remoto: Es utilizado frecuentemente por técnicos de soporte para solucionar problemas en dispositivos de usuarios sin tener que estar físicamente presentes.
+<br>
+<p>Trabajo remoto: Permite que los empleados trabajen desde cualquier lugar, accediendo a sus computadoras de trabajo.
+<br>
+<p>Colaboración: Facilita el trabajo en equipo a través de la posibilidad de compartir pantallas y recursos de manera fácil y rápida.
+<br>
+<p>Educación a distancia: Puede ser útil en entornos educativos para brindar clases o soporte a los estudiantes.
+<br>
+<p>Planes y precios:
+<br>
+<p>AnyDesk ofrece varias opciones, incluidas versiones gratuitas y de pago:
+<br>
+<p>Gratuita: Para uso personal no comercial, con funciones básicas.
+<br>
+<p>Licencias de pago: Ofrecen más funcionalidades, como el acceso a múltiples dispositivos, sesiones sin supervisión, y soporte prioritario.
+<br>
+<input type="button" value="Abrir aquí para mas información de AnyDesk" onclick="window.open('https://anydesk.com/es')" />
+
+</body>
+</html>
